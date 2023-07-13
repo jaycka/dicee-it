@@ -3,7 +3,7 @@ Project for Day 17 of Udemy 2023 Web Development Bootcamp: A stylish, fully resp
 [Try it out](https://jaycka.github.io/move-it/)  
 ___  
 **Concepts and skills used in this project:**  
-`html` | `css` | `bootstrap`  
+`HTML` | `CSS` | `JavaScript` | `Bootstrap` | `FLEX` | `GRID`
 ___
 **Features:**  
 * Roll the dice and settle the arguments;
@@ -13,3 +13,9 @@ ___
 * See the results at a glance with neumorphic styles;  
 ___  
 **Demo**  
+![1](1.png)  
+![2](2.png)  
+![3](3.png)  
+![4](4.png)  
+![5](5.png)  
+
