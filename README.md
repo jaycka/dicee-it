@@ -1,6 +1,6 @@
 # Project: Dicee-it
 Project for Day 17 of Udemy 2023 Web Development Bootcamp: A stylish, fully responsive, fun dice game website that help you and your friends sorting things out!  
-[Try it out](https://jaycka.github.io/move-it/)  
+[Try it out](https://jaycka.github.io/dicee-it/)  
 ___  
 **Concepts and skills used in this project:**  
 `HTML` | `CSS` | `JavaScript` | `Bootstrap` | `FLEX` | `GRID`
@@ -13,9 +13,5 @@ ___
 * See the results at a glance with neumorphic styles;  
 ___  
 **Demo**  
-![1](1.png)  
-![2](2.png)  
-![3](3.png)  
-![4](4.png)  
-![5](5.png)  
+![6](6.png)  
 
