@@ -13,5 +13,4 @@ ___
 * See the results at a glance with neumorphic styles;  
 ___  
 **Demo**  
-![6](6.png)  
-
+<img src='https://github.com/jaycka/web-development-projects/blob/main/screenshots/dice-it-demo.gif?raw=true' width=100% />
