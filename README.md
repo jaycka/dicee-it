@@ -14,4 +14,6 @@ ___
 ___  
 **Demo**  
 <img src='https://github.com/jaycka/web-development-projects/blob/main/screenshots/dice-it-demo.gif?raw=true' width=100% />
+___  
+**Screenshots**  
 ![demo](./6.png)
